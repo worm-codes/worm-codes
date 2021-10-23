@@ -17,11 +17,14 @@
 
 
 </a>
-<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
-
-
-
 <br/>
+<div align="center">
+  <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="120" height="120" />
+  </div>
+
+
+
+
 <br/>
 
 
