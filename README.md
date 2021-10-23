@@ -4,14 +4,12 @@
 
 
 <a href="https://twitter.com/oguzhancevik8">
-  <img align="left" alt="Oguz's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v2/icons/twitter.svg" />
+  <img align="left" alt="Oguz's Twitter" width="22px" src="https://i.ibb.co/tpVKV2d/twitter.png" />
 </a>
 <a href="https://www.linkedin.com/in/oguzhancevikk/">
-  <img align="left" alt="Oguz's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Oguz's Linkdein" width="22px" src="https://i.ibb.co/bR16w11/linkedin.png" />
 </a>
-<a href="https://github.com/worm-codes">
-  <img align="left" alt="Oguz's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
+
 
 <a href="https://www.instagram.com/oquzzzzz/">
   <img align="left" alt="Oguz's Instagram" width="22px" src="https://i.ibb.co/tpNXXHF/instagram-1.png" />
