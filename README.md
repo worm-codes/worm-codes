@@ -19,7 +19,7 @@
 </a>
 <br/>
 <div align="center">
-  <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" />
+  <img src="https://giphy.com/gifs/loop-work-programmer-11ZSwQNWba4YF2" />
   </div>
 
 
