@@ -25,7 +25,7 @@
 
 
 
-- 🌱 I’m currently learning more about ReactJS, Node.js, Flutter.
+- 🌱 I’m currently learning more about <img><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></img>, Node.js, Django.
 - 💬 Ask me about Node.js, Javascript, HTML5, CSS3, npm, Bootstrap or any tech-related stuff.
 - 📫 How to reach me: [Instagram - @oquzzzzz](https://www.instagram.com/oquzzzzz/) 
 
