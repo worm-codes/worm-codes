@@ -13,6 +13,7 @@
 
 <a href="https://www.instagram.com/oquzzzzz/">
   <img align="left" alt="Oguz's Instagram" width="22px" src="https://i.ibb.co/tpNXXHF/instagram-1.png" />
+  ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 </a>
 ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
