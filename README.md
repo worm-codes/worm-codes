@@ -19,7 +19,7 @@
 </a>
 <br/>
 <div align="center">
-  <img src="https://giphy.com/gifs/loop-work-programmer-11ZSwQNWba4YF2" />
+  <iframe src="https://giphy.com/embed/11ZSwQNWba4YF2" width="247" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/loop-work-programmer-11ZSwQNWba4YF2">via GIPHY</a></p>
   </div>
 
 
