@@ -15,11 +15,11 @@
   <img align="left" alt="Oguz's Instagram" width="22px" src="https://i.ibb.co/tpNXXHF/instagram-1.png" />
 </a>
 
-
+ ![](https://imgur.com/a/3dOBNj4)
 </a>
 <br/>
 <div align="center">
-  ![](https://imgur.com/a/3dOBNj4)
+ 
 
 
   </div>
