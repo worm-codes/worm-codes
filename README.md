@@ -19,7 +19,7 @@
 </a>
 <br/>
 <div align="center">
-  <img src="https://giphy.com/embed/11ZSwQNWba4YF2" width="247" height="480" frameBorder="0" class="giphy-embed" allowFullScreen/>
+  <img src=https://media.giphy.com/media/11ZSwQNWba4YF2/giphy.gif" width="247" height="480" frameBorder="0" class="giphy-embed" allowFullScreen/>
   </div>
 
 
