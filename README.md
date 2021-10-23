@@ -19,11 +19,11 @@
 </a>
 
 <br/>
-<div align="center">
- ![hi](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+
+![](https://imgur.com/a/3dOBNj4)
 
 
-  </div>
+ 
 
 
 
