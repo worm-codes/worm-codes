@@ -29,7 +29,7 @@
 
 
 
-![](https://komarev.com/ghpvc/?username=worm-codes&color=green)
+![](https://komarev.com/ghpvc/?username=worm-codes&color=dark)
 <br/>
 
 
