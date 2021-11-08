@@ -3,17 +3,7 @@
 ## Hello, I'm [Oğuzhan Çevik!] 👋
 
 
-<a href="https://twitter.com/oguzhancevik8">
-  <img align="left" alt="Oguz's Twitter" width="22px" src="https://i.ibb.co/tpVKV2d/twitter.png" />
-</a>
-<a href="https://www.linkedin.com/in/oguzhancevikk/">
-  <img align="left" alt="Oguz's Linkdein" width="22px" src="https://i.ibb.co/bR16w11/linkedin.png" />
-</a>
 
-
-<a href="https://www.instagram.com/oquzzzzz/">
-  <img align="left" alt="Oguz's Instagram" width="22px" src="https://i.ibb.co/tpNXXHF/instagram-1.png" />
-</a>
 
 
 </a>
@@ -42,6 +32,11 @@
 
 [![Twitter: oguzhancevik8](https://img.shields.io/twitter/follow/oguzhancevik8?style=social)](https://twitter.com/oguzhancevik8)
 [![Linkedin: oguzhancevikk](https://img.shields.io/badge/-oguzhancevikk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oguzhancevikk/)](https://www.linkedin.com/in/oguzhancevikk/)
+<a href="https://www.instagram.com/oquzzzzz/">
+  <img align="left" alt="Oguz's Instagram" width="22px" src="https://i.ibb.co/tpNXXHF/instagram-1.png" />
+</a>
+
+
 
 
 
