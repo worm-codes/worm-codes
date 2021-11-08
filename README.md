@@ -32,7 +32,7 @@
 
 [![Twitter: oguzhancevik8](https://img.shields.io/twitter/follow/oguzhancevik8?style=social)](https://twitter.com/oguzhancevik8)
 [![Linkedin: oguzhancevikk](https://img.shields.io/badge/-oguzhancevikk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oguzhancevikk/)](https://www.linkedin.com/in/oguzhancevikk/)
-[![Instagram: oquzzzzz](https://img.shields.io/badge/-oguzhancevikk-red?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/oquzzzzz/)](https://www.instagram.com/oquzzzzz/)
+[![Instagram: oquzzzzz](https://img.shields.io/badge/-oquzzzzz-red?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/oquzzzzz/)](https://www.instagram.com/oquzzzzz/)
 
 
 
