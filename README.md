@@ -27,7 +27,7 @@
 - 🌱 I’m currently learning more about <img>,<img><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></img> and Next.js .
 - 💬 Ask me about Node.js, Javascript, HTML5, CSS3, npm, Bootstrap or any tech-related stuff.
 - 📫 How to reach me: **oguzhan728@gmail.com**
-- - 📝[Resume](https://drive.google.com/file/d/1jV7BAUqFO7aoQWG0YGB6vvu1YkWRnX5p/view?usp=sharing)
+
 
 
 
