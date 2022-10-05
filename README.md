@@ -25,8 +25,9 @@
 
 
 - 🌱 I’m currently learning more about <img>,<img><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></img> and Next.js .
-- 💬 Ask me about Node.js, Javascript, HTML5, CSS3, npm, Bootstrap or any tech-related stuff.
+- 💬 Ask me about Node.js, Javascript, HTML5, CSS3, React, Socket.io or any tech-related stuff.
 - 📫 How to reach me: **oguzhan728@gmail.com**
+- You can review my projects, my skills and my background on [https://oguzhan-cevik.vercel.app/](https://oguzhan-cevik.vercel.app/)
 
 
 
@@ -51,16 +52,6 @@
 
 
 
-
-
-
-
-
-<div align="center">
-
-### Show some ❤️ by starring some of the repositories!
-
-</div>
 
 
 
