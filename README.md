@@ -27,7 +27,7 @@
 - 🌱 I’m currently learning more about Typescript, Jest, styled-components and Next.js .
 - 💬 Ask me about Node.js, Javascript, HTML5, CSS3, React.js, Socket.io or any tech-related stuff.
 - 📫 How to reach me: **oguzhan728@gmail.com**
-- You can review my projects, my skills and my background on [https://oguzhan-cevik.vercel.app/](https://oguzhan-cevik.vercel.app/)
+- You can review my projects, my skills and my background on [My Portfolio](https://oguzhan-cevik.vercel.app/)
 
 
 
