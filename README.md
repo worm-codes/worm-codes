@@ -17,7 +17,7 @@
 ```javascript
 const Me = {
   learning: [Typescript, Jest, Styled-Components],
-  code: [Javascript, HTML, CSS, React.js, Node.js],
+  code: [Javascript, HTML, CSS, React.js, Node.js, Next.js],
   tools: [Socket.io, Context, Bootstrap, Heroku, Vite.js, Express.js,
   Firebase(Auth), Semantic-UI, Postman],
   DB: [MongoDB]
