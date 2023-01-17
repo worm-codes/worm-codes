@@ -17,9 +17,10 @@
 ```javascript
 const Me = {
   learning: [Cypress, Jest],
-  code: [Javascript, HTML, CSS, React.js, Node.js, Next.js, Typescript],
-  tools: [Socket.io, ContextAPI, Redux, Bootstrap, Heroku, Vite.js, Express.js,
-  Firebase(Auth), Semantic-UI, Postman, Styled-Components, SCSS, React Query],
+  code: [Javascript, React.js, Node.js, Next.js, Typescript],
+  tools: [Socket.io, ContextAPI, Redux, Heroku, Vite.js, Express.js,
+  Firebase(Auth), Postman, React Query],
+  Styling:[HTML, CSS, Semantic-UI, Bootstrap, Styled-Components, SCSS, Motion Library, Ant Design, Material UI]
   DB: [MongoDB,MySQL]
 }
 ```
