@@ -16,11 +16,11 @@
 
 ```javascript
 const Me = {
-  learning: [Typescript, Jest, Styled-Components],
-  code: [Javascript, HTML, CSS, React.js, Node.js, Next.js],
-  tools: [Socket.io, Context, Bootstrap, Heroku, Vite.js, Express.js,
-  Firebase(Auth), Semantic-UI, Postman],
-  DB: [MongoDB]
+  learning: [Cypress, Jest],
+  code: [Javascript, HTML, CSS, React.js, Node.js, Next.js, Typescript],
+  tools: [Socket.io, ContextAPI, Redux, Bootstrap, Heroku, Vite.js, Express.js,
+  Firebase(Auth), Semantic-UI, Postman, Styled-Components, SCSS, React Query],
+  DB: [MongoDB,MySQL]
 }
 ```
 
