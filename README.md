@@ -1,7 +1,7 @@
 <h2> Hi, I'm Oğuzhan ÇEVİK 👋</h2>
 
 
-![](https://komarev.com/ghpvc/?username=worm-codes&color=yellow)
+![](https://komarev.com/ghpvc/?username=worm-codes&color=purple)
 [![Linkedin: oguzhancevikk](https://img.shields.io/badge/-oguzhancevikk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oguzhancevikk/)](https://www.linkedin.com/in/oguzhancevikk/)
 [![GitHub worm-codes](https://img.shields.io/github/followers/worm-codes?label=follow&style=social)](https://github.com/worm-codes)
 
