@@ -1,5 +1,4 @@
 <h2> Hi, I'm Oğuzhan ÇEVİK 👋</h2>
-<img align='right' src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="230">
 
 
 ![](https://komarev.com/ghpvc/?username=worm-codes&color=yellow)
