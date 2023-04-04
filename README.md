@@ -14,7 +14,7 @@
 
 ```javascript
 const Me = {
-  learning: [Cypress, Jest],
+  learning: [AWS],
   code: [Javascript, React.js, Node.js, Next.js, Typescript],
   tools: [Socket.io, ContextAPI, Redux-Toolkit, Heroku, Vercel, Vite.js, Express.js,
   Firebase(Auth), Postman, React-Query],
