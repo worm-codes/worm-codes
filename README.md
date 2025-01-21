@@ -6,7 +6,7 @@
 [![GitHub worm-codes](https://img.shields.io/github/followers/worm-codes?label=follow&style=social)](https://github.com/worm-codes)
 
 - 📫 How to reach me: **oguzhan728@gmail.com**
-- 🌱 You can review my projects, my skills and my background on [oguzhancevik.dev](https://oguzhancevik.dev/)
+- 🌱 You can review my projects, my skills and my background on [webpage](https://oquz-dev.vercel.app/)
 
 
 
